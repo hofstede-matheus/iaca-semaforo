@@ -2,6 +2,7 @@
 int ledVerde= 8;
 int ledAmarelo= 9;
 int ledVermelho= 10;
+int ledLaranja= 11;
 
 void setup()//executa apenas 1 vez quando o arduíno é ligado
 {
