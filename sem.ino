@@ -20,4 +20,9 @@ void loop() //é executado enquanto o arduino estiver ligado
   digitalWrite(ledVermelho,HIGH); //acende o led
    delay(4000);          //espera 4 segundos
   digitalWrite(ledVermelho,LOW);  //apaga o led !!!!!!!!!!!!!!!
+
+  //Controle do led vermelho
+  digitalWrite(ledLaranja,HIGH); //acende o led
+   delay(4000);          //espera 4 segundos
+  digitalWrite(ledLaranja,LOW);  //apaga o led !!!!!!!!!!!!!!!
 }
